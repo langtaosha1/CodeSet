@@ -11,7 +11,7 @@ public class Faibonacci {
         a[0] = 0;
         a[1] = 1;
         System.out.println(a[0] + "\n" + a[1]);
-        
+
         if(n < 2) {
             System.out.println("请输入大于2的整数！");
         }

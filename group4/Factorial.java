@@ -7,7 +7,7 @@ public class Factorial {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         int sum = 1;
-        if(n >10 && n < 0){
+        if(n <10 && n > 0){
             for(int i = n; i > 0; i--){
                 sum *= i;
             }

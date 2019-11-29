@@ -5,7 +5,7 @@ public class lianxi30 {
 public static void main(String[] args) {
    int[] a = new int[]{1, 2, 6, 14, 25, 36, 37,55};
    int[] b = new int[a.length+1];
-   intt1=0,t2=0;
+   int t1=0,t2=0;
    int i =0;
    Scanner s= new Scanner(System.in);
    System.out.print("请输入一个整数：");
